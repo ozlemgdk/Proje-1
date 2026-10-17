@@ -1,2 +1,2 @@
 # KargoAnaliz
-Bu projede veri analizine yeni baslayanlar icin olusturuldu
+KargoAnaliz: SQL Server, Excel ve Power BI ile kargo teslimat analizi projesi.
